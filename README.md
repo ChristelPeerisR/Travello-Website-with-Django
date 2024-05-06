@@ -54,9 +54,9 @@ In settins.py file, You have to give your username and password<br>
 DATABASES = {<br>
     'default': {<br>
         'ENGINE': 'django.db.backends.postgresql',<br>
-        'NAME': 'DB Name',<br>
+        'NAME': 'Your database Name',<br>
         'USER':'postgres',<br>
-        'PASSWORD':'Ypur password',<br>
+        'PASSWORD':'Your password',<br>
         'HOST':'localhost'<br>
     }<br>
 }<br>
